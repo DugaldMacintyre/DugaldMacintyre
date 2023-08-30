@@ -39,15 +39,15 @@ Check out how to get in touch, my skills, and some of my favourite projects belo
 ### 🛠 Libraries
 
 <div align="left">
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AReact-icon.svg&psig=AOvVaw3YVP4I5Fe4wlE70XAY2WV1&ust=1693518835208000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJDO37avhYEDFQAAAAAdAAAAABAE" alt="git" width="40" height="40" /> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg"/> </a>
   &nbsp; &nbsp;
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="/images/Tensorflow_logo.svg.png" alt="git" width="40" height="40" /> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="/images/Tensorflow_logo.svg.png"/> </a>
   &nbsp; &nbsp;
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="/images/Pandas_logo.svg.png" alt="git" width="40" height="40" /> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="/images/Pandas_logo.svg.png"/> </a>
   &nbsp; &nbsp;
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="/images/1180px-Node.js_logo.svg.png" alt="git" width="40" height="40" /> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="/images/1180px-Node.js_logo.svg.png"/> </a>
   &nbsp; &nbsp;
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="/images/MongoDB_Logo.svg.png" alt="git" width="40" height="40" /> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="/images/MongoDB_Logo.svg.png"/> </a>
   &nbsp; &nbsp;
 </div>
 
