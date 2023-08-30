@@ -21,7 +21,7 @@ Check out how to get in touch, my skills, and some of my favourite projects belo
 
 ## ⚙ Skills
 
-### 👨‍💻 Programming
+### 👨‍💻 Languages
 
 <div align="left">
   <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/c.svg" alt="c" width="40" height="40" /> </a>
@@ -36,22 +36,19 @@ Check out how to get in touch, my skills, and some of my favourite projects belo
 
 
 
-### 🛠 Technologies
+### 🛠 Libraries
 
 <div align="left">
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" alt="git" width="40" height="40" /> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AReact-icon.svg&psig=AOvVaw3YVP4I5Fe4wlE70XAY2WV1&ust=1693518835208000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJDO37avhYEDFQAAAAAdAAAAABAE" alt="git" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATensorflow_logo.svg&psig=AOvVaw17RYzzpXo8-56hDfp-H1wV&ust=1693518865512000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIDQwcWvhYEDFQAAAAAdAAAAABAF" alt="git" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://opencv.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" /> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APandas_logo.svg&psig=AOvVaw2cW2gjwQFaciOC26V1DgNy&ust=1693518887147000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOjt8s6vhYEDFQAAAAAdAAAAABAM" alt="git" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.ros.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/ros.svg" alt="ros" width="40" height="40" /> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANode.js_logo.svg&psig=AOvVaw0JsHCvhrz8-yBim-GTXH4q&ust=1693518938468000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCJC7-eevhYEDFQAAAAAdAAAAABAD" alt="git" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/arduino.svg" alt="arduino" width="40" height="40" /> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AMongoDB_Logo.svg&psig=AOvVaw14EVd-BhU1kKZW6hup05KM&ust=1693518962467000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMjcqPOvhYEDFQAAAAAdAAAAABAH" alt="git" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.mathworks.com/products/simulink.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/simulink.svg" alt="simulink" width="40" height="40" /> </a>
-  &nbsp; &nbsp;
-  <a href="https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/ltspice.svg" alt="ltspice" width="40" height="40" /> </a>
 </div>
 
 ## 📚 Repositories
