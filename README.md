@@ -1,19 +1,10 @@
-# DugaldMacintyre
-
-# Welcome to my GitHub page  <img src="https://raw.githubusercontent.com/DugaldMacintyre/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" />
+# Welcome to my GitHub page  <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" />
 
 
 ## 👤 About Me
 
-Hi there, my name is Dugald Macintyre.
-
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=arasgungore-CV)](https://github.com/arasgungore/arasgungore-CV)
-&nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=arasgungore.github.io)](https://github.com/arasgungore/arasgungore.github.io)
-
-
-
-
+Hi there, my name is Dugald Macintyre. I'm a student at The University of Edinburgh currently studying BSc (Hons) Artificial Intelligence and Computer Science. My main interests are Data Science and Web Development. 
+Check out how to get in touch, my skills, and some of my favourite projects below.
 ## 📇 Social & Contact
 
 <div align="left">
