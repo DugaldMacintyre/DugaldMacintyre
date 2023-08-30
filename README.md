@@ -37,7 +37,7 @@ Check out how to get in touch, my skills, and some of my favourite projects belo
 
 
 ### 🛠 Libraries
-<details>
+
 <div align="left">
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" width=40 height=40/> </a>
   &nbsp; &nbsp;
@@ -50,13 +50,12 @@ Check out how to get in touch, my skills, and some of my favourite projects belo
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="/images/MongoDB_Logo.svg.png" height=40/> </a>
   &nbsp; &nbsp;
 </div>
-</details>
+
 ## 📚 Repositories
 
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=console-games)](https://github.com/arasgungore/console-games)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=DugaldMacintyre&repo=trading)](https://github.com/DugaldMacintyre/trading)
 &nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=BERT-base-Turkish-QA)](https://github.com/arasgungore/BERT-base-Turkish-QA)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=DugaldMacintyre&repo=Airbnb-Prices-in-Edinburgh)](https://github.com/DugaldMacintyre/Airbnb-Prices-in-Edinburgh)
 &nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=VGA-based-screensaver)](https://github.com/arasgungore/VGA-based-screensaver)
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=DugaldMacintyre&repo=Movie-Recommender)](https://github.com/DugaldMacintyre/Movie-Recommender)
 &nbsp; &nbsp;
-[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=autocorrect)](https://github.com/arasgungore/autocorrect)
