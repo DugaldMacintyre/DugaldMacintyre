@@ -37,7 +37,7 @@ Check out how to get in touch, my skills, and some of my favourite projects belo
 
 
 ### 🛠 Libraries
-
+<details>
 <div align="left">
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" width=40 height=40/> </a>
   &nbsp; &nbsp;
@@ -50,7 +50,7 @@ Check out how to get in touch, my skills, and some of my favourite projects belo
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="/images/MongoDB_Logo.svg.png" height=40/> </a>
   &nbsp; &nbsp;
 </div>
-
+</details>
 ## 📚 Repositories
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=arasgungore&repo=console-games)](https://github.com/arasgungore/console-games)
