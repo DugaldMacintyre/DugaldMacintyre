@@ -39,15 +39,15 @@ Check out how to get in touch, my skills, and some of my favourite projects belo
 ### 🛠 Libraries
 
 <div align="left">
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" width=40 height=40/> </a>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img alt="git" src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/git.svg" width=40 height=40/> </a>
   &nbsp; &nbsp;
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="/images/Tensorflow_logo.svg.png" height=40/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img alt="tensorflow" src="/images/Tensorflow_logo.svg.png" height=40/> </a>
   &nbsp; &nbsp;
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="/images/Pandas_logo.svg.png" height=40/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img alt="pandas" src="/images/Pandas_logo.svg.png" height=40/> </a>
   &nbsp; &nbsp;
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="/images/1180px-Node.js_logo.svg.png" height=40/> </a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img alt="node" src="/images/1180px-Node.js_logo.svg.png" height=40/> </a>
   &nbsp; &nbsp;
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="/images/MongoDB_Logo.svg.png" height=40/> </a>
+  <a href="https://www.mongodb.com/cloud/atlas/lp/try4?adgroup=142438572381&cq_cmp=19609110867&gad=1" target="_blank" rel="noreferrer"> <img alt="mongodb" src="/images/MongoDB_Logo.svg.png" height=40/> </a>
   &nbsp; &nbsp;
 </div>
 
