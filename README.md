@@ -5,6 +5,15 @@
 
 Hi there, my name is Dugald Macintyre. I'm a student at The University of Edinburgh currently studying BSc (Hons) Artificial Intelligence and Computer Science. My main interests are Data Science and Web Development. 
 Check out how to get in touch, my skills, and some of my favourite projects below.
+
+
+Check out my [portfolio](https://DugaldMacintyre.github.io) and [CV](https://github-readme-stats.vercel.app/api/pin/?username=DugaldMacintyre&repo=cv) to learn more about me and my projects.
+
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=DugaldMacintyre&repo=cv)](https://github.com/DugaldMacintyre/cv)
+&nbsp; &nbsp;
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=DugaldMacintyre&repo=DugaldMacintyre.github.io)](https://github.com/DugaldMacintyre/DugaldMacintyre.github.io)
+
+
 ## 📇 Social & Contact
 
 <div align="left">
