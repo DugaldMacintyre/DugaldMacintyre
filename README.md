@@ -7,7 +7,7 @@ Hi there, my name is Dugald Macintyre. I'm a student at The University of Edinbu
 Check out how to get in touch, my skills, and some of my favourite projects below.
 
 
-Check out my [portfolio](https://DugaldMacintyre.github.io) and [CV](https://github-readme-stats.vercel.app/api/pin/?username=DugaldMacintyre&repo=cv) to learn more about me and my projects.
+Check out my [portfolio](https://DugaldMacintyre.github.io) and [CV](https://github.com/DugaldMacintyre/cv) to learn more about me and my projects.
 
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=DugaldMacintyre&repo=cv)](https://github.com/DugaldMacintyre/cv)
 &nbsp; &nbsp;
